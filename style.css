@@ -4205,7 +4205,7 @@ html {
 .hamburger{
   width: 40px;
   height: 50px;
-  left: 390px;
+  left: 330px;
 }
 .header-right{
   height: 50px;
@@ -4219,6 +4219,21 @@ html {
 }
 .title3{
   width: 300px;
+}
+.flecha2{
+  top: 670px;
+  left: 250px;
+}
+.flecha1{
+  top: 670px;
+  left: 150px;
+}
+.fin{
+  margin-bottom: 10px;
+  left: -10px;
+}
+.video-ash{
+  margin-top: 20px;
 }
 }
 
