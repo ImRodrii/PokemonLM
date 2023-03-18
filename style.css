@@ -4167,12 +4167,12 @@ html {
 }
 .tienda-1{
   left: 0px;
-  width: 477px;
+  width: 437px;
   height: 450px;
 }
 .shop-new{
   height: 300px;
-  width: 230px;
+  width: 200px;
   margin-left: 5%;
 }
 .shop-new1{
@@ -4180,18 +4180,45 @@ html {
 }
 .tienda-2{
   left: 0px;
-  width: 477px;
+  width: 437px;
   height: 450px;
 }
 .tienda-3{
   left: 0px;
-  width: 477px;
+  width: 437px;
   height: 450px;
 }
 .tienda-4{
   left: 0px;
-  width: 477px;
+  width: 437px;
   height: 450px;
+}
+.h44{
+  display: none;
+}
+.shop-new img{
+  width: 120px;
+}
+.shopnow{
+  display: none;
+}
+.hamburger{
+  width: 40px;
+  height: 50px;
+  left: 390px;
+}
+.header-right{
+  height: 50px;
+}
+.login-signup{
+  width: 200px;
+  left: 250px;
+}
+.vs7{
+  display: none;
+}
+.title3{
+  width: 300px;
 }
 }
 
