@@ -3896,7 +3896,7 @@ footer .cola{
   position: absolute;
   border-style: solid;
   width: 1100px;
-  margin-left: 12%;
+  left: 12%;
   margin-top: 50px;
   height: 20%;
   border-radius: 17px;
@@ -4213,21 +4213,13 @@ html {
 }
 .login-signup{
   width: 200px;
-  left: 250px;
+  left: 235px;
 }
 .vs7{
   display: none;
 }
 .title3{
   width: 300px;
-}
-.flecha2{
-  top: 670px;
-  left: 250px;
-}
-.flecha1{
-  top: 670px;
-  left: 150px;
 }
 .fin{
   margin-bottom: 10px;
@@ -4259,6 +4251,7 @@ html {
   height: 40%;
 }
 }
+
 
 
 
